@@ -7,7 +7,7 @@
 # Inherit from violet device
 $(call inherit-product, device/xiaomi/violet/device.mk)
 
-# Inherit some common Spark-OS stuff.
+# Inherit some common Xperience-OS stuff.
 $(call inherit-product, vendor/xperience/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
