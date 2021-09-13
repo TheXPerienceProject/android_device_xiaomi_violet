@@ -395,9 +395,9 @@ PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
 
 # Sounds (default)
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.config.ringtone=The_big_adventure.ogg \
-    ro.config.notification_sound=Popcorn.ogg \
-    ro.config.alarm_alert=Bright_morning.ogg
+    ro.config.ringtone=Orion.ogg \
+    ro.config.notification_sound=Deneb.ogg \
+    ro.config.alarm_alert=Cesium.ogg
 
 # RCS
 PRODUCT_PACKAGES += \
